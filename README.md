@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Yousif 
 - I graduated from the University of Science and technology at Zewail City in Communications and Information Engineering
-- 👀 I’m interested in Desktop Development using C# and Machine learning Using Python
-- 🌱 I’m currently learning Web Development.
-- My Experience Involves Databases , NLP , Information security and Encryption , Big data analytics , Deep Learning.
+- 👀 I’m interested in Web Development using C# .NET and Machine learning Using Python
+- My Experience Involves .NET , LINQ , Entity Framework Core , SQL Server , Python , HTML , CSS , Javascript , APIs
 
 <!---
 yousifbeshay/yousifbeshay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
